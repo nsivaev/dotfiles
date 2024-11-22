@@ -7,4 +7,3 @@ This repository contains my personalized configuration files for various tools a
 - **Neovim (nvim)**: Text editor settings and plugins
 - **skhd**: Hotkeys configuration
 - **yabai**: Window manager setup
-- **Others**: [List any other tools you have configured]
