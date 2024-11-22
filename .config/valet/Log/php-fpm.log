@@ -1,0 +1,18 @@
+[12-Jul-2024 10:57:53 UTC] PHP Warning:  require(/Users/nsivaev/Developer/frontend-test/vendor/autoload.php): Failed to open stream: No such file or directory in /Users/nsivaev/Developer/frontend-test/artisan on line 18
+[12-Jul-2024 10:57:53 UTC] PHP Warning:  require(/Users/nsivaev/Developer/frontend-test/vendor/autoload.php): Failed to open stream: No such file or directory in /Users/nsivaev/Developer/frontend-test/artisan on line 18
+[12-Jul-2024 10:57:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/nsivaev/Developer/frontend-test/vendor/autoload.php' (include_path='.:/opt/homebrew/Cellar/php/8.3.9/share/php/pear') in /Users/nsivaev/Developer/frontend-test/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /Users/nsivaev/Developer/frontend-test/artisan on line 18
+[12-Jul-2024 10:57:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/nsivaev/Developer/frontend-test/vendor/autoload.php' (include_path='.:/opt/homebrew/Cellar/php/8.3.9/share/php/pear') in /Users/nsivaev/Developer/frontend-test/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /Users/nsivaev/Developer/frontend-test/artisan on line 18
+[12-Jul-2024 11:00:58 UTC] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in /Users/nsivaev/Developer/frontend-test/config/sanctum.php on line 18
+[12-Jul-2024 11:00:59 UTC] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in /Users/nsivaev/Developer/frontend-test/config/sanctum.php on line 18
+[12-Jul-2024 11:01:27 UTC] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in /Users/nsivaev/Developer/frontend-test/config/sanctum.php on line 18
+[12-Aug-2024 14:13:33 UTC] PHP Warning:  Attempt to read property "title" on null in phar:///Users/nsivaev/Library/Application Support/Zed/extensions/work/php/phpactor-2024.06.30.0/phpactor.phar/lib/Extension/LanguageServerConfiguration/Listener/AutoConfigListener.php on line 47
+[16-Oct-2024 09:51:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /Users/nsivaev/Developer/aw/veles2020/sender.php on line 16
+[16-Oct-2024 09:51:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /Users/nsivaev/Developer/aw/veles2020/sender.php on line 16
+[16-Oct-2024 09:51:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /Users/nsivaev/Developer/aw/veles2020/sender.php on line 16
+[16-Oct-2024 09:51:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /Users/nsivaev/Developer/aw/veles2020/sender.php on line 16
