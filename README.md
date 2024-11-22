@@ -7,3 +7,4 @@ This repository contains my personalized configuration files for various tools a
 - **Neovim (nvim)**: Text editor settings and plugins
 - **skhd**: Hotkeys configuration
 - **yabai**: Window manager setup
+- **vsc**: Visual Studio Code .json files
